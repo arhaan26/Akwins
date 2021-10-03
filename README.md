@@ -1,2 +1,2 @@
 # Akwins
- this is A python project made with Tkinter and SQlite3
+ This is a python project made with Tkinter and SQlite3.
